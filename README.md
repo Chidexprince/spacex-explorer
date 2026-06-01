@@ -42,6 +42,20 @@ npm install
 npm run dev
 ```
 
+## Screenshots
+
+### Launches page
+
+![Launches](./public/screenshots/launches.png)
+
+### Launch detail
+
+![Detail](./public/screenshots/detail.png)
+
+### Favorites
+
+![Detail](./public/screenshots/favorites.png)
+
 # Architecture Review & Technical Decisions
 
 ## Project Architecture
